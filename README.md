@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🎬 TMWFile - Your Personal Streaming Hub
+# 🎬 TMWFile - Streaming Hub
 
 [![Made with Gemini AI](https://img.shields.io/badge/Made%20with-Gemini%20AI-blue?style=for-the-badge&logo=googlebard)](https://gemini.google.com/)
 [![Educational Purpose](https://img.shields.io/badge/Purpose-Educational-green?style=for-the-badge)](#)
 [![API](https://img.shields.io/badge/API-Free%20Movie%20DB-red?style=for-the-badge)](#)
 
-*A beautiful, personal web application to explore and track your favorite Movies, TV Series, and Shows.*
+*A personal web application to explore and track your favorite Movies, TV Series, and Shows.*
 
 </div>
 
